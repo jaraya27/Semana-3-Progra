@@ -1,0 +1,9 @@
+c:\users\programacion\documents\visual studio 2013\Projects\WinForms Semana 3\WinForms Semana 3\bin\Debug\WinForms Semana 3.exe.config
+c:\users\programacion\documents\visual studio 2013\Projects\WinForms Semana 3\WinForms Semana 3\bin\Debug\WinForms Semana 3.exe
+c:\users\programacion\documents\visual studio 2013\Projects\WinForms Semana 3\WinForms Semana 3\bin\Debug\WinForms Semana 3.pdb
+c:\users\programacion\documents\visual studio 2013\Projects\WinForms Semana 3\WinForms Semana 3\obj\Debug\WinForms Semana 3.csprojResolveAssemblyReference.cache
+c:\users\programacion\documents\visual studio 2013\Projects\WinForms Semana 3\WinForms Semana 3\obj\Debug\WinForms_Semana_3.Form1.resources
+c:\users\programacion\documents\visual studio 2013\Projects\WinForms Semana 3\WinForms Semana 3\obj\Debug\WinForms_Semana_3.Properties.Resources.resources
+c:\users\programacion\documents\visual studio 2013\Projects\WinForms Semana 3\WinForms Semana 3\obj\Debug\WinForms Semana 3.csproj.GenerateResource.Cache
+c:\users\programacion\documents\visual studio 2013\Projects\WinForms Semana 3\WinForms Semana 3\obj\Debug\WinForms Semana 3.exe
+c:\users\programacion\documents\visual studio 2013\Projects\WinForms Semana 3\WinForms Semana 3\obj\Debug\WinForms Semana 3.pdb
